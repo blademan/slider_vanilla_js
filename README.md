@@ -1,1 +1,1 @@
-# slider_vannila_js
+# slider vanilla js
